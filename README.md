@@ -1,4 +1,14 @@
-﻿**TAIYŌAI INC.**
+This is Assignment of data Scrapping For Data engineering role from Taiyo,ai 
+we have used Python for the Data extraction and Standardization
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Necessary Python packages.
+ 
+ 
+ **TAIYŌAI INC.**
 
 **Data Engineering Trial Task**
 
@@ -50,3 +60,7 @@ Candidates should share a Google Drive folder containing:
 - Pay close attention to the data standards and ensure your methods are scalable and suitable for a production environment.
 - Clearly articulate your use of AI or machine learning models, specifically in the context of data sourcing and any preprocessing tasks.
 - Demonstrate a thoughtful approach to continuous data updating and monitoring.
+
+
+
+**Dhiraj Kevalram**
